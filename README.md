@@ -5,5 +5,5 @@
 <p align="center"> 
 
 
-<a href="https://bit.ly/3EPoOmA"><img title="Telegram" src="https://img.shields.io/badge/-Telegram-blue"></a>
+<a href="https://t.me/zedkid69"><img title="Telegram" src="https://img.shields.io/badge/-Telegram-blue"></a>
 </p>
