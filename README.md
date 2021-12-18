@@ -3,6 +3,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdK1r422&layout=compact&theme=blueberry)
 
+<a href="https://github.com/L0rdK1r422">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdK1r422&theme=blueberry&hide_langs_below=1" />
+</a>
+
 ## Pm Me On
 <p align="center"> 
 
