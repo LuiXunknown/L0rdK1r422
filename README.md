@@ -8,4 +8,7 @@
 
 
 <a href="https://t.me/zedkid69"><img title="Telegram" src="https://img.shields.io/badge/-Telegram-blue"></a>
+
+<a href="https://wa.me/+77073503089"><img title="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-Green"></a>
+
 </p>
