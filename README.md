@@ -7,3 +7,4 @@
 
 <a href="https://t.me/zedkid69"><img title="Telegram" src="https://img.shields.io/badge/-Telegram-blue"></a>
 </p>
+> Pm me [Whatsapp](https://bit.ly/3GQHTp2) [Telegram](https://bit.ly/3e1xYkf)
