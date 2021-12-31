@@ -11,7 +11,7 @@
 
 <a href="https://github.com/L0rdK1r422/bruteforce"><img title="bruteforce" src="https://github-readme-stats.vercel.app/api/pin/?username=L0rdK1r422&repo=bruteforce&theme=radical"></a>
 <a href="https://github.com/L0rdK1r422/TermuxTheme"><img title="TermuxTheme" src="https://github-readme-stats.vercel.app/api/pin/?username=L0rdK1r422&repo=TermuxTheme&theme=highcontrast"></a>
-<a href="https://github.com/L0rdK1r422/botnet"><img title="botnet" src="https://github-readme-stats.vercel.app/api/pin/?username=L0rdK1r422&repo=botnet&theme=vision-friendly-dark"></a>
+<a href="https://github.com/L0rdK1r422/BashCalculator"><img title="BashCalculator" src="https://github-readme-stats.vercel.app/api/pin/?username=L0rdK1r422&repo=BashCalculator&theme=vision-friendly-dark"></a>
 <a href="https://github.com/L0rdK1r422/hulkddos"><img title="hulkdos" src="https://github-readme-stats.vercel.app/api/pin/?username=L0rdK1r422&repo=hulkddos&theme=highcontrast"></a>
 
 
