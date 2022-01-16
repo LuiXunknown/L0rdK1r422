@@ -20,7 +20,7 @@
 <p align="center"> 
 
 
-<a href="https://t.me/zxdkid"><img title="Telegram" src="https://img.shields.io/badge/-Telegram-blue"></a>
+<a href="https://t.me/wold002"><img title="Telegram" src="https://img.shields.io/badge/-Telegram-blue"></a>
 
 <a href="https://wa.me/+77073503089"><img title="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-Green"></a>
 
